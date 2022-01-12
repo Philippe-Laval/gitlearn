@@ -2,6 +2,10 @@ namespace DefaultNamespace;
 
 public class Class1
 {
+    /// <summary>
+    /// Constructor
+    /// </summary>
+    /// <returns></returns>
     public Class1
     {
         
