@@ -7,5 +7,9 @@ public class Classe2
     /// </summary>
     public Classe2(){}
     
+    /// <summary>
+    /// Run
+    /// </summary>
+    /// <returns></returns>
     public void Run() {}
 }
